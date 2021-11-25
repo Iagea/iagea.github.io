@@ -1,0 +1,1 @@
+This folder will contain all extra files for the webpage like images or files to download.
