@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Awards & Grants"
+    url: /awards-grants/
+    
+  - title: "Teaching"
+    url: /teaching/  
+
+  - title: "Conferences"
+    url: /talks/    
+
+  #- title: "Skills"
+   # url: /skills-certifications/
+    
+  - title: "Outreach"
+    url: /outreach/
+    
+  - title: "Media"
+    url: /media/
