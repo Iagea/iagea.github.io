@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Conferences"
+permalink: /talks/
+author_profile: true
+---
+
+Throughout my career as a researcher, I have presented a total of 26 communications (14 oral and 12 poster) at international and national congresses and symposiums. 
+
+<img src='/images/Tira_FotosCongresos_AliciaLBruzos.png'>  
+
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+
+<h2>Full list of communications</h2>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
+ <a href="https://albruzos.github.io/cv/">Back to CV</a> 
