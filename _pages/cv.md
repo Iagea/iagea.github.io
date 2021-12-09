@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<img src='/images/terraceo2.png'>  
 
 Education
 =======
