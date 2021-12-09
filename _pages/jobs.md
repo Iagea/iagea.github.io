@@ -40,7 +40,7 @@ _Summer 2014:_ **Extracurricular activities**.
 :   *Time:* January to July.  
 
  2018 – 2019: **University of Hamburg**, Hamburg, Germany.  
-:   *Institution:* [HH](https://www.zbh.uni-hamburg.de/personen/alumni/acm/jkirchmair.html), Germany.
+:   *Institution:* [UHH](https://www.zbh.uni-hamburg.de/personen/alumni/acm/jkirchmair.html), Germany.
 :   *Advisor:* Johannes Kirchmair.  
 :   *Theme:* Docking applied to Glucocorticoid Receptor.  
 :	*Funding:* ERASMUS+.
