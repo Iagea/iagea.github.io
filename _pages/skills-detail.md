@@ -1,5 +1,5 @@
 ---
-title: "Skills of Alicia in more detail..."
+title: "Personal skills in detail..."
 permalink: /skills-detail/
 author_profile: true
 ---
