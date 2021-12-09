@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Skills  
-<img src='/images/TS_EURODOC.png'>  
+<img src='/images/TS_EURODOC.jpg'>  
 [More details here](https://iagea.github.io/skills-detail/)
 
 
