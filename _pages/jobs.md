@@ -6,14 +6,14 @@ author_profile: true
 
 {% include toc %}
 
-### CURRENT POSITION
+### 👩🏻‍💻 CURRENT POSITION
 
 _2017_ – Present:	**Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
 :   *Duties:* Cheminformatic analysis to find new nuclear receptor chemotypes.
 :   *Supervisor/s:* Daniel Svozil. 
 
-### PREVIOUS POSITIONS
+### 👩🏻‍💻 PREVIOUS POSITIONS
 
 _2016 – 2017:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
@@ -31,7 +31,7 @@ _Summer 2014:_ **Extracurricular activities**.
 :   *Supervisor/s:* Jose Antonio Encinar.
 
 
-### RESEARCH STAYS AS VISITING SCIENTIST
+### ✈️ RESEARCH STAYS AS VISITING SCIENTIST
  2022<sup>expected</sup>: **Friedrich Schiller University Jena**, Jena, Germany.  
 :   *Institution:* [FSU](https://cheminf.uni-jena.de/members/steinbeck/), Germany.
 :   *Advisor:* Crhistoph Steinbeck.
@@ -46,7 +46,7 @@ _Summer 2014:_ **Extracurricular activities**.
 :	*Funding:* ERASMUS+.
 :   *Time:* October to April.  
 
-### NON-SCIENTIFIC POSITIONS
+### 🍻 🍳 NON-SCIENTIFIC POSITIONS
 
 _2017 – 2020:_ **Beer tour guide**  
 :   *Employer:* Sandemans New Prague, Prague, Czech Republic.  
