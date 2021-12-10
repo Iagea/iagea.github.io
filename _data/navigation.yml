@@ -23,3 +23,6 @@ main:
     
   #- title: "Media"
    # url: /media/
+
+  - title: "Contact me"
+    url: /contact/    
