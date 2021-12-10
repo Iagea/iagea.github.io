@@ -6,13 +6,13 @@ redirect_from:
   - "/sk/"
 ---
 
-## Skills  
+## 🛠 Skills  
 <img src='/images/TS_EURODOC.jpg'>  
 [More details here](https://iagea.github.io/skills-detail/)
 
 
 
-## Training courses and certifications 
+## 🏋️‍♀️ Training courses and certifications 
 
 | Training | Institution | Year 
 | ------------- | ------------- | ------------- |
