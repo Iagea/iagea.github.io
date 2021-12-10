@@ -11,7 +11,7 @@ permalink: /teaching/supervision
 | Title | Student | Institution |  Academic year
 | ------------- | ------------- | ------------- | ------------- |  
 | **Influence of parameters on chemical space exploration with Molpher** | Valeriia Fil | UCT |  2021/2022
-| **Design of new bioactive molecules using deep generators and molecular docking** | Michal Punčochář | UCT |  2021/2022
+| **Design of new bioactive molecules using deep generators and molecular docking** | Michal Punčochář | UCT |  2019/2020
 
 ## BSc. Consultant  
 
