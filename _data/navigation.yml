@@ -2,7 +2,13 @@
 main:
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Experience"
+    url: /jobs/
+
   - title: "Publications"
     url: /publications/
 
@@ -15,8 +21,8 @@ main:
   - title: "Conferences"
     url: /talks/    
 
-  #- title: "Skills"
-   # url: /skills-certifications/
+  - title: "Skills"
+    url: /skills-certifications/
     
   #- title: "Outreach"
    # url: /outreach/
