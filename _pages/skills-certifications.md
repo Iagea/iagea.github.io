@@ -22,7 +22,8 @@ I try my best to be a better scientist and a better person every day. Therefore,
 | **Fundamentals of management** | UCT | 2021
 | **Deep Learning A-Z™: Hands-On Artificial Neural Networks** | Udemy | 2021
 | **Machine Learning A-Z™: Hands-On Python & R In Data Science** | Udemy | 2021
-| **Gaining confidence in presentations** | NTK | 2017
+| **Gaining confidence in presentations** | NTK | 2018
+| **Summer School in Bioinformatics** | UEF | 2017
 | **Effective Scientific Writing** | UCT | 2017
 
 
