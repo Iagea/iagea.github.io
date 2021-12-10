@@ -74,7 +74,7 @@ Full detailed list can be checked [here](https://iagea.github.io/talks/)
 
 ### 🎓 Mentoring and Outreach
 
-Number of supervised students: 2 [More info](https://iagea.github.io/teaching/supervision)      
+Number of advised students: 4 [More info](https://iagea.github.io/teaching/supervision)      
 Number of interviews: 1 [More info](https://iagea.github.io/media/)  
 
 ### 🛠 Skills, training courses and certifications
