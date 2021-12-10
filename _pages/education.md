@@ -6,7 +6,7 @@ author_profile: true
 
 {% include toc %}
 
-### Education
+### 👩🏼‍🎓 Education
 
 **PhD. in Drugs and Biomaterials**, University of Chemistry and Technology, Prague, Czech Republic. [UCT](https://www.vscht.cz)  
 :   *2016 – 2022* <sup>expected</sup>  
@@ -29,7 +29,7 @@ author_profile: true
 :   *2009 – 2011*  
 
 
-### Languages
+### 💬 Languages
 
 **Spanish**: Native <br>
 **Catalan**: Native <br>
