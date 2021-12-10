@@ -11,6 +11,6 @@ citation: 'Wilm A, Norinder U, Agea MI, de Bruyn Kops C, Stork C, Kühnl J, Kirc
 
 **More information:**  
 Visit online version: [10.1021/acs.chemrestox.0c00253](https://pubs.acs.org/doi/10.1021/acs.chemrestox.0c00253)  
-[Download PDF paper here](https://ALBruzos.github.io/files/papers/2020_Skin_CP.pdf)  
+[Download PDF paper here](https://iagea.github.io/files/papers/2020_Skin_CP.pdf)  
 
 
