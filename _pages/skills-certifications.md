@@ -14,13 +14,15 @@ redirect_from:
 
 ## Training courses and certifications 
 
-| Training | Institution | Year |  Certificate
-| ------------- | ------------- | ------------- | ------------- |  
-| **Machine Learning A-Z™: Hands-On Python & R In Data Science** | Udemy | 2021 |  [Certificate](https://iagea.github.io/files/ML_Udemy_certificate_MI_Agea.pdf)
+| Training | Institution | Year 
+| ------------- | ------------- | ------------- |
+| **Fundamentals of management** | UCT | 2021
+| **Deep Learning A-Z™: Hands-On Artificial Neural Networks** | Udemy | 2021
+| **Machine Learning A-Z™: Hands-On Python & R In Data Science** | Udemy | 2021
+| **Gaining confidence in presentations** | NTK | 2017
+| **Effective Scientific Writing** | UCT | 2017
 
 
-### UNDER CONSTRUCTION
-STAY TUNED FOR FUTURE UPDATES...
 
 
 [Back to CV](https://iagea.github.io/cv/)
