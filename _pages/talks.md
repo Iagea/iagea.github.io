@@ -5,9 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-Throughout my career as a researcher, I have presented a total of 10 communications (3 oral and 7 poster) at international and national congresses and symposiums. <br>
-
-
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
