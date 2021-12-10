@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Doctoral student at the Department of Informatics and Chemistry at the [University of Chemistry and Technology](http://www.vscht.cz/) in Prague. Proud cheminformatician geek focused on drug design research. Interested in machine learning, data analysis, docking, molecular generators, image recognition... anything that requires a computer and represents a challenge somehow.
+Doctoral student at the Department of Informatics and Chemistry at the University of Chemistry and Technology in Prague. Proud cheminformatician geek focused on drug design research. Interested in machine learning, data analysis, docking, molecular generators, image recognition... anything that requires a computer and represents a challenge somehow.
+
 
 
 
