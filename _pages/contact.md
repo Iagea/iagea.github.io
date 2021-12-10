@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 title: ""
-excerpt: "Contact of Alicia L. Bruzos"
+excerpt: "Contact of M. Isabel Agea"
 author_profile: true
 redirect_from: 
   - "/email/"
