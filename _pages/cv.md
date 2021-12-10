@@ -22,7 +22,7 @@ redirect_from:
 **BSc. in Biotechnology**, Rovira and Virgili University, Tarragona, Spain. [URV](https://www.urv.cat/ca/estudis/graus/oferta/plans/ciencies/biotecnologia-grau/)
 :   *2011 – 2015* 
 :   Specialization in Biomedicine. 
-:   Title of Degree thesis: _“Pre-steps for the search of new antimicrobial peptides.”
+:   Title of Degree thesis: _“Pre-steps for the search of new antimicrobial peptides.”_
 
 [More info](https://iagea.github.io/education/) 
 
