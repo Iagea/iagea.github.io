@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards & Grants"
-    url: /awards-grants/
+  #- title: "Awards & Grants"
+   # url: /awards-grants/
     
-  - title: "Teaching"
-    url: /teaching/  
+  #- title: "Teaching"
+   # url: /teaching/  
 
   - title: "Conferences"
     url: /talks/    
@@ -18,8 +18,8 @@ main:
   #- title: "Skills"
    # url: /skills-certifications/
     
-  - title: "Outreach"
-    url: /outreach/
+  #- title: "Outreach"
+   # url: /outreach/
     
-  - title: "Media"
-    url: /media/
+  #- title: "Media"
+   # url: /media/
