@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Throughout my career as a researcher, I have presented a total of 10 communications (3 oral and 7 poster) at international and national congresses and symposiums. 
+Throughout my career as a researcher, I have presented a total of 10 communications (3 oral and 7 poster) at international and national congresses and symposiums. <br>
 
 
 {% if site.talkmap_link == true %}
@@ -15,7 +15,7 @@ Throughout my career as a researcher, I have presented a total of 10 communicati
 {% endif %}
 
 
-<h2> 🎤 Full list of communications</h2>
+## 🎤 Full list of communications
 
 **Talk - Validation and application of Molpher’s virtual libraries using conformal prediction and docking. M. Isabel Agea _et al_** _(2021)_ <br>
 1st BIOPꓵCT (Bio-InfOrmatics Phd symposium at University of Chemistry and Technology). Prague, Czech Republic. 26th October 2021.
