@@ -6,14 +6,14 @@ date: 2021-12-01
 permalink: /teaching/supervision
 ---
 
-## MSc. Consultant  
+## MSc. Thesis Consultant  
 
 | Title | Student | Institution |  Academic year
 | ------------- | ------------- | ------------- | ------------- |  
 | **Influence of parameters on chemical space exploration with Molpher** | Valeriia Fil | UCT |  2021/2022
 | **Design of new bioactive molecules using deep generators and molecular docking** | Michal Punčochář | UCT |  2019/2020
 
-## BSc. Consultant  
+## BSc. Thesis Consultant  
 
 | Title | Student | Institution |  Academic year
 | ------------- | ------------- | ------------- | ------------- |  
