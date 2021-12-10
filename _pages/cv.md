@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Education
+‍🎓 Education
 =======
 **PhD. in Drugs and Biomaterials**, University of Chemistry and Technology, Prague, Czech Republic. [UCT](https://www.vscht.cz)  
 :   *2016 – 2022* <sup>expected</sup>  
@@ -26,7 +26,7 @@ Education
 
 [More info](https://iagea.github.io/education/) 
 
-### Languages
+### 💬 Languages
 
 **Spanish**: Native <br>
 **Catalan**: Native <br>
@@ -37,7 +37,7 @@ Education
 
 ---
 
-Work experience
+👩🏼‍💻 Work experience
 =======
 _2017_ – Present:	**Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
@@ -51,47 +51,39 @@ _2016 – 2017:_ **Predoctoral researcher.**
 
 [Previous positions](https://iagea.github.io/jobs/)  
 
-### RESEARCH STAYS AS A VISITING SCIENTIST
+### ✈️ RESEARCH STAYS AS A VISITING SCIENTIST
 International research stays: 2 (Germany)  
 [More info](https://iagea.github.io/jobs/) 
 
 ---
 
-Research and Academia
+📚 Research and Academia
 ======
 
-### Publications
+### 📄 Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### Conferences
+### 🎤 Conferences
 
 Number of talks: 3
 Number of posters: 7   
 
 Full detailed list can be checked [here](https://iagea.github.io/talks/)  
 
-### Mentoring and Outreach
+### 🎓 Mentoring and Outreach
 
 Number of supervised students: 2 [More info](https://iagea.github.io/teaching/supervision)      
 Number of interviews: 1 [More info](https://iagea.github.io/media/)  
 
-### Skills, training courses and certifications
+### 🛠 Skills, training courses and certifications
 
 Full detailed list can be checked [here](https://iagea.github.io/skills-certifications/)
 
 ---
 
-Grants and Fellowships
-======
-1 fellowships  
-2 scholarships  
-[More info](https://iagea.github.io/awardsgrants/grants/)
-
----
-
-Contact
+📞 Contact
 ======
 
 [Get in touch with me](https://iagea.github.io/contact) - [About Me](https://iagea.github.io/) 
