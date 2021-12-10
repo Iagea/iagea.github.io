@@ -20,12 +20,12 @@ _2016 – 2017:_ **Predoctoral researcher.**
 :   *Duties:* Study of DNA conformations using Dolbico database. 
 :   *Supervisor:* Daniel Svozil.
 
-_2014 – 2016:_ **Collaborator at the Evolutionary Genomics Group**  
+_2014 – 2016:_ **Collaborator at the Evolutionary Genomics Group.**  
 :   *Institution:* [IMIM](http://evolutionarygenomics.imim.es/group/), Barcelona, Spain.  
 :   *Duties:* Characterization of new antimicrobial peptides using computational techniques and data from massive sequencing of transcripts expressed in different human tissues. 
 :   *Supervisor:* M. Mar Albà.
 
-_Summer 2014:_ **Extracurricular activities**. 
+_Summer 2014:_ **Extracurricular activities.** 
 :   *Institution:* [University Miguel Hernandez](http://shaker.umh.es/), Spain.
 :   *Duties:* Visualization of protein interaction and peptide design for binding interrumption on Hepatitis C RNA synthesis.
 :   *Supervisor:* Jose Antonio Encinar.
@@ -48,19 +48,19 @@ _Summer 2014:_ **Extracurricular activities**.
 
 ### 🍻 🍳 NON-SCIENTIFIC POSITIONS
 
-_2017 – 2020:_ **Beer tour guide**  
+_2017 – 2020:_ **Beer tour guide.**  
 :   *Employer:* Sandemans New Prague, Prague, Czech Republic.  
 :   *Duties:* Beer tour guide for Spanish sepakers. Explanation about history, preparation and Czech beer styles. 
 
-_2015 – 2016:_ **Cook**  
+_2015 – 2016:_ **Cook.**  
 :   *Employer:* Golfo de Bizkaia, Barcelona, Spain.  
 :   *Duties:* Typical Basque gastronomy with plenty of 'pintxos' and seafood recipes. 
 
-_2011 – 2015:_ **Chef**  
+_2011 – 2015:_ **Chef.**  
 :   *Employer:* [Restaurante El Frontón](http://www.restauranteelfronton.com/), Elche, Spain.  
 :   *Duties:* Head Chef during holiday seasons and weekends. 
 
-_2009 – 2010:_ **Waitress**  
+_2009 – 2010:_ **Waitress.**  
 :   *Employer:* Restaurante Candela, Elche, Spain.  
 :   *Duties:* Waitress during holiday seasons and weekends. 
 
