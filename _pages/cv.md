@@ -67,7 +67,7 @@ International research stays: 2 (Germany)
   
 ### 🎤 Conferences
 
-Number of talks: 3
+Number of talks: 3  
 Number of posters: 7   
 
 Full detailed list can be checked [here](https://iagea.github.io/talks/)  
