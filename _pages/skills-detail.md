@@ -4,7 +4,7 @@ permalink: /skills-detail/
 author_profile: true
 ---
 
-**To be continiued**
+**To be continued**
 
 
 [Back to Skills & Trainings & Certifications](https://iagea.github.io/skills-certifications/)   
