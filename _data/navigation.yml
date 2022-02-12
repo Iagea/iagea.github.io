@@ -24,8 +24,8 @@ main:
   - title: "Skills"
     url: /skills-certifications/
     
-  #- title: "Outreach"
-   # url: /outreach/
+  - title: "Outreach"
+    url: /outreach/
     
   #- title: "Media"
    # url: /media/
