@@ -32,7 +32,7 @@ _Summer 2014:_ **Extracurricular activities.**
 
 
 ### ✈️ RESEARCH STAYS AS VISITING SCIENTIST
- 2022<sup>expected</sup>: **Friedrich Schiller University Jena**, Jena, Germany.  
+ 2022: **Friedrich Schiller University Jena**, Jena, Germany.  
 :   *Institution:* [FSU](https://cheminf.uni-jena.de/members/steinbeck/), Germany.
 :   *Supervisor:* Crhistoph Steinbeck.
 :   *Theme:* Deep learning for image recognition of natural products.  
@@ -50,7 +50,7 @@ _Summer 2014:_ **Extracurricular activities.**
 
 _2017 – 2020:_ **Beer tour guide.**  
 :   *Employer:* Sandemans New Prague, Prague, Czech Republic.  
-:   *Duties:* Beer tour guide for Spanish sepakers. Explanation about history, preparation and Czech beer styles. 
+:   *Duties:* Beer tour guide for Spanish speakers. Explanation about history, preparation and Czech beer styles. 
 
 _2015 – 2016:_ **Cook.**  
 :   *Employer:* Golfo de Bizkaia, Barcelona, Spain.  
