@@ -42,17 +42,17 @@ redirect_from:
 _2022_ – Present:	**IBM Great Minds 2022 Intern.**  
 :   *Institution:* [IBM Research](https://www.zurich.ibm.com/), Switzerland.  
 :   *Duties:* Computer vision for chemical information extraction.
-:   *Supervisor:* Peter Staar. 
+:   *Manager:* Peter Staar. 
 
 _2017_ – Present:	**Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
 :   *Duties:* Cheminformatic analysis to find new nuclear receptor chemotypes.
-:   *Supervisor/s:* Daniel Svozil. 
+:   *Supervisor:* Daniel Svozil. 
 
 _2016 – 2017:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
 :   *Duties:* Study of DNA conformations using Dolbico database. 
-:   *Supervisor/s:* Daniel Svozil.
+:   *Supervisor:* Daniel Svozil.
 
 [Previous positions](https://iagea.github.io/jobs/)  
 
