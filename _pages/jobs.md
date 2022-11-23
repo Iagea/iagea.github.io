@@ -8,6 +8,11 @@ author_profile: true
 
 ### 👩🏻‍💻 CURRENT POSITION
 
+_2022_ – Present:	**IBM Great Minds 2022 Intern.**  
+:   *Institution:* [IBM Research](https://www.zurich.ibm.com/), Switzerland.  
+:   *Duties:* Computer vision for chemical information extraction.
+:   *Supervisor:* Peter Staar. 
+
 _2017_ – Present:	**Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
 :   *Duties:* Cheminformatic analysis to find new nuclear receptor chemotypes.
