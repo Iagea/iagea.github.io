@@ -39,7 +39,7 @@ _Summer 2014:_ **Extracurricular activities.**
 ### ✈️ RESEARCH STAYS AS VISITING SCIENTIST
  2022: **Friedrich Schiller University Jena**, Jena, Germany.  
 :   *Institution:* [FSU](https://cheminf.uni-jena.de/members/steinbeck/), Germany.
-:   *Supervisor:* Crhistoph Steinbeck.
+:   *Supervisor:* Christoph Steinbeck.
 :   *Theme:* Deep learning for image recognition of natural products.  
 :   *Funding:* ERASMUS+.
 :   *Time:* January to July.  

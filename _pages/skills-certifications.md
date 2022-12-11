@@ -19,6 +19,8 @@ I try my best to be a better scientist and a better person every day. Therefore,
 
 | Training | Institution | Year 
 | ------------- | ------------- | ------------- |
+| **SELF-CONFIDENCE: 40-minute Confidence & Self Esteem Guide** | Udemy | 2022
+| **Statistics for Data Science and Business Analysis** | Udemy | 2022
 | **Fundamentals of management** | UCT | 2021
 | **Effective Scientific Writing** | UCT | 2021
 | **Deep Learning A-Z™: Hands-On Artificial Neural Networks** | Udemy | 2021
