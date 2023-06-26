@@ -43,15 +43,15 @@ _2023_ – Present:	**Cheminformatic Scientist**
 :   *Institution:* [MSD Prague](https://www.msd.cz/en/), Czech Republic.  
 :   *Manager:* Danny Bitton. 
 
-_2022_ – _2023_:	**IBM Great Minds 2022 Intern.**  
-:   *Institution:* [IBM Research](https://www.zurich.ibm.com/), Switzerland.  
-:   *Duties:* Computer vision for chemical information extraction.
-:   *Manager:* Peter Staar. 
-
 _2017_ – Present:	**Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
 :   *Duties:* Cheminformatic analysis to find new nuclear receptor chemotypes.
 :   *Supervisor:* Daniel Svozil. 
+
+_2022_ – _2023_:	**IBM Great Minds 2022 Intern.**  
+:   *Institution:* [IBM Research](https://www.zurich.ibm.com/), Switzerland.  
+:   *Duties:* Computer vision for chemical information extraction.
+:   *Manager:* Peter Staar. 
 
 _2016 – 2017:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
