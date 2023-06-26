@@ -7,11 +7,9 @@ author_profile: true
 {% include toc %}
 
 ### 👩🏻‍💻 CURRENT POSITION
-
-_2022_ – Present:	**IBM Great Minds 2022 Intern.**  
-:   *Institution:* [IBM Research](https://www.zurich.ibm.com/), Switzerland.  
-:   *Duties:* Computer vision for chemical information extraction.
-:   *Supervisor:* Peter Staar. 
+_2023_ – Present:	**Cheminformatic Scientist**  
+:   *Institution:* [MSD Prague](https://www.msd.cz/en/), Czech Republic.  
+:   *Manager:* Danny Bitton. 
 
 _2017_ – Present:	**Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
@@ -19,6 +17,10 @@ _2017_ – Present:	**Predoctoral researcher.**
 :   *Supervisor:* Daniel Svozil. 
 
 ### 👩🏻‍💻 PREVIOUS POSITIONS
+_2022_ – _2023:_	**IBM Great Minds 2022 Intern.**  
+:   *Institution:* [IBM Research](https://www.zurich.ibm.com/), Switzerland.  
+:   *Duties:* Computer vision for chemical information extraction.
+:   *Supervisor:* Peter Staar. 
 
 _2016 – 2017:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
@@ -37,6 +39,11 @@ _Summer 2014:_ **Extracurricular activities.**
 
 
 ### ✈️ RESEARCH STAYS AS VISITING SCIENTIST
+_2022_ – _2023:_	**IBM Great Minds 2022 Intern.**  
+:   *Institution:* [IBM Research](https://www.zurich.ibm.com/), Switzerland.  
+:   *Duties:* Computer vision for chemical information extraction.
+:   *Supervisor:* Peter Staar. 
+
  2022: **Friedrich Schiller University Jena**, Jena, Germany.  
 :   *Institution:* [FSU](https://cheminf.uni-jena.de/members/steinbeck/), Germany.
 :   *Supervisor:* Christoph Steinbeck.
