@@ -39,7 +39,11 @@ redirect_from:
 
 👩🏼‍💻 Work experience
 =======
-_2022_ – Present:	**IBM Great Minds 2022 Intern.**  
+_2023_ – Present:	**Cheminformatic Scientist**  
+:   *Institution:* [MSD Prague](https://www.msd.cz/en/), Czech Republic.  
+:   *Manager:* Danny Bitton. 
+
+_2022_ – _2023_:	**IBM Great Minds 2022 Intern.**  
 :   *Institution:* [IBM Research](https://www.zurich.ibm.com/), Switzerland.  
 :   *Duties:* Computer vision for chemical information extraction.
 :   *Manager:* Peter Staar. 
@@ -57,7 +61,7 @@ _2016 – 2017:_ **Predoctoral researcher.**
 [Previous positions](https://iagea.github.io/jobs/)  
 
 ### ✈️ RESEARCH STAYS AS A VISITING SCIENTIST
-International research stays: 2 (Germany)  
+International research stays: 3 (Germany)  
 [More info](https://iagea.github.io/jobs/) 
 
 ---
