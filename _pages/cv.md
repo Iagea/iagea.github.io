@@ -61,7 +61,7 @@ _2016 – 2017:_ **Predoctoral researcher.**
 [Previous positions](https://iagea.github.io/jobs/)  
 
 ### ✈️ RESEARCH STAYS AS A VISITING SCIENTIST
-International research stays: 3 (Germany)  
+International research stays: 3 (Germany and Switzerland)  
 [More info](https://iagea.github.io/jobs/) 
 
 ---
