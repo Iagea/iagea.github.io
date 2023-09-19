@@ -6,7 +6,7 @@ excerpt: ' '
 date: 2023-08-19
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-023-40782-0'
-citation: 'Wilm A, Norinder U, Agea MI, de Bruyn Kops C, Stork C, Kühnl J, Kirchmair J. Skin Doctor CP: Conformal Prediction of the Skin Sensitization Potential of Small Organic Molecules. Chem Res Toxicol. 2021 Feb 15;34(2):330-344.'
+citation: 'Rajan K, Brinkhaus HO, Agea MI, Zielesny A, Steinbeck C. DECIMER.ai: an open platform for automated optical chemical structure identification, segmentation and recognition in scientific publications. Nat Commun 14, 5045 (2023)'
 ---
 
 **More information:**  
