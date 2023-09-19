@@ -13,8 +13,8 @@ author_profile: true
 
 **List:**  
 
-**DECIMER.AI - An open platform for automated optical chemical structure identification, segmentation and recognition in scientific publications** Rajan K, Brinkhaus HO, **Agea MI**, Zielesny A, Steinbeck C. _(01/2023)_ <br>
-DOI: [10.26434/chemrxiv-2023-xhcx9](https://doi.org/10.26434/chemrxiv-2023-xhcx9) <br>
+**DECIMER.AI: An open platform for automated optical chemical structure identification, segmentation and recognition in scientific publications** Rajan K, Brinkhaus HO, **Agea MI**, Zielesny A, Steinbeck C. _(01/2023)_ <br>
+DOI: [10.1038/s41467-023-40782-0](https://www.nature.com/articles/s41467-023-40782-0) <br>
 
 **Skin Doctor CP: Conformal Prediction of the Skin Sensitization Potential of Small Organic Molecules** Wilm A, Norinder U, **Agea MI**, de Bruyn Kops C, Stork C, Kühnl J, Kirchmair J. _(12/2020)_ <br>
 Chemical Research in Toxicology. <br>
