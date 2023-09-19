@@ -9,7 +9,7 @@ author_profile: true
 ### 👩🏼‍🎓 Education
 
 **PhD. in Drugs and Biomaterials**, University of Chemistry and Technology, Prague, Czech Republic. [UCT](https://www.vscht.cz)  
-:   *2016 – 2022* <sup>expected</sup>  
+:   *2016 – 2023*
 :   Specialization in Drug Design.  
 :   Title of Doctoral Thesis: _"Search of new Nuclear receptor's active chemotypes"_  
 
