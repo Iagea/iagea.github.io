@@ -11,8 +11,9 @@ redirect_from:
 ‍🎓 Education
 =======
 **PhD. in Drugs and Biomaterials**, University of Chemistry and Technology, Prague, Czech Republic. [UCT](https://www.vscht.cz)  
-:   *2016 – 2023
+:   *2016 – 2023*
 :   Specialization in Drug Design.  
+:   Title of PhD Thesis: _“Data mining methods in computer-aided drug discovery.”_
   
 **MSc. in Bioinformatics**, Autonomous University of Barcelona, Spain. [UAB](http://mscbioinformatics.uab.cat/base/base3.asp?sitio=msbioinformaticsen)
 :   *2015 – 2016*	  
