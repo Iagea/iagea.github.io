@@ -11,7 +11,7 @@ redirect_from:
 ‍🎓 Education
 =======
 **PhD. in Drugs and Biomaterials**, University of Chemistry and Technology, Prague, Czech Republic. [UCT](https://www.vscht.cz)  
-:   *2016 – 2023* <sup>expected</sup>  
+:   *2016 – 2023
 :   Specialization in Drug Design.  
   
 **MSc. in Bioinformatics**, Autonomous University of Barcelona, Spain. [UAB](http://mscbioinformatics.uab.cat/base/base3.asp?sitio=msbioinformaticsen)
@@ -39,11 +39,11 @@ redirect_from:
 
 👩🏼‍💻 Work experience
 =======
-_2023_ – Present:	**Cheminformatic Scientist**  
+_2023_ – Present:	**Cheminformatic Scientist - ML Engineer**  
 :   *Institution:* [MSD Prague](https://www.msd.cz/en/), Czech Republic.  
 :   *Manager:* Danny Bitton. 
 
-_2017_ – Present:	**Predoctoral researcher.**  
+_2017_ – 2023:	**Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
 :   *Duties:* Cheminformatic analysis to find new nuclear receptor chemotypes.
 :   *Supervisor:* Daniel Svozil. 
