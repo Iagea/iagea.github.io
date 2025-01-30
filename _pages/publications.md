@@ -13,6 +13,9 @@ author_profile: true
 
 **List:**  
 
+**Chemical space exploration with Molpher: Generating and assessing a glucocorticoid receptor ligand library** <br> **Agea MI**, Čmelo I, Dehaen W, Chen Y, Kirchmair J, Sedlák D, Bartůněk P, Šícho M, Svozil D . _(07/2024)_ <br>
+DOI: [10.1002/minf.202300316](https://doi.org/10.1002/minf.202300316) <br>
+
 **MolGrapher: Graph-based Visual Recognition of Chemical Structures** <br> Morin L, Danelljan M, **Agea MI**, Nassar A, Weber V, Meijer I, Staar P, Fisher Y. _(09/2023)_ <br>
 DOI: [arXiv:2308.12234](https://arxiv.org/abs/2308.12234) <br>
 
