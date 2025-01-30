@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Cheminformatic Scientist at MSD and doctoral student at the Department of Informatics and Chemistry at the University of Chemistry and Technology in Prague. Proud cheminformatician geek focused on drug design research. Interested in machine learning, data analysis, docking, molecular generators, image recognition... anything that requires a computer and represents a challenge somehow.
+Cheminformatic Scientist and ML Engineer at MSD in Prague. Proud cheminformatician geek focused on drug design research. Interested in machine learning, data analysis, docking, molecular generators, image recognition... anything that requires a computer and represents a challenge somehow.
 
 
 
