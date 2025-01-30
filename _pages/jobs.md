@@ -8,8 +8,9 @@ author_profile: true
 
 ### 👩🏻‍💻 CURRENT POSITION
 _2023_ – Present:	**Cheminformatic Scientist - ML Engineer**  
-:   *Institution:* [MSD Prague](https://www.msd.cz/en/), Czech Republic.  
-:   *Manager:* Danny Bitton. 
+:   *Institution:* [MSD Prague](https://www.msd.cz/en/), Czech Republic.
+:   *Duties:* Technical lead, I manage different projects taking care of fullfilling the stakeholders needs while ensuring proper technical architecture for both front and backend and scientific data and solutions quality.
+:   *Manager:* Michael Wurst. 
 
 _2017_ – 2023:	**Predoctoral researcher.**  
 :   *Institution:* [University of Chemistry and Technology](https://www.vscht.cz), Czech Republic.  
