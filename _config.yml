@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "M. Isabel Agea"
+title                    : "M. Isabel Agea, PhD"
 title_separator          : "-"
 name                     : &name "iagea"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "M. Isabel Agea"
   avatar           : "terraceo.jpg"
-  bio              : "A Spanish girl exploring the world since 1993. I completed my BS in Biotechnology in an attempt to understand the molecular mechanisms of life, my M.Sc. in Bioinformatics after falling in love with it. Nowadays, I am a PhD student in the field of Drug Design at the University of Chemistry and Technology in the amazing city of Prague. Passionate about science, puzzles, travelling, sports and beer."
+  bio              : "A Spanish girl exploring the world since 1993. I completed my BS in Biotechnology in an attempt to understand the molecular mechanisms of life, my M.Sc. in Bioinformatics after falling in love with it. Finally, I did my PhD in the field of Drug Design at the University of Chemistry and Technology in the amazing city of Prague. Passionate about science, puzzles, travelling, sports and beer."
   location         : "Prague, Czech Republic"
   employer         : #"University of Chemistry and Technology in Prague."
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=m+isabel+agea"
