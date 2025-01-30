@@ -9,14 +9,14 @@ redirect_from:
 
 
 ### Face-to-face and postal mail:
-University of Chemistry and Technology, Prague.
-Technická 5
-166 28 Praha 6 – Dejvice
+MSD Building FIVE
+Na Valentince 504
+150 00 Praha 5-Smíchov
 Czech Republic.
 
 ### E-mail:
 misabelagea@gmail.com  
-agealorm@vscht.cz
+agealore@merck.com
 
 ### Follow me!
 [LinkedIn](https://www.linkedin.com/in/isabelagealorente)  
